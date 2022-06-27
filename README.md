@@ -1,8 +1,8 @@
 ### Olá, eu sou o Jalmir Reis, entusiasta da área de TI desde 1997, quando tinha apenas 14 anos. Após 13 anos fora do meio profissional, enquanto fui militar, resolvi fazer uma grande mudança em minha vida, mudei-me para Porto - Portugal, e recomecei os estudos na área, atualmente focado em Python, desenvolvimento back end e analise de dados.
 
  <a href="https://github.com/jalmir-reis">
-  <img height="42%" src="https://github-readme-stats.vercel.app/api?username=jalmir-reis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalmir-reis&layout=compact&langs_count=7&theme=dark"/>
+  <img width="42%" height="42%" src="https://github-readme-stats.vercel.app/api?username=jalmir-reis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalmir-reis&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
