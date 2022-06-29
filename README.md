@@ -1,6 +1,6 @@
 ### Olá, eu sou o Jalmir Reis, entusiasta da área de TI desde 1997, quando tinha apenas 14 anos. Após 13 anos fora do meio profissional, enquanto fui militar, resolvi fazer uma grande mudança em minha vida, mudei-me para Porto - Portugal, e recomecei os estudos na área, atualmente focado em Python, desenvolvimento back end e analise de dados.
 
-### Hi, I'm Jalmir Reis, an IT enthusiast since 1997, when he was just 14 years old. After 13 years out of the professional environment, while I was in the military, I decided to make a big change in my life, I moved to Porto - Portugal, and restarted my studies in the area, currently focused on Python, back end development and data analysis.
+### Hi, I'm Jalmir Reis, an TI enthusiast since 1997, when I was just 14 years. After 13 years out of the professional environment, while I was in the military, I decided to make a big change in my life, I moved to Porto - Portugal, and restarted my studies in the area, currently focused on Python, back end development and data analysis.
 
  <a href="https://github.com/jalmir-reis">
   <img width="42%" height="42%" src="https://github-readme-stats.vercel.app/api?username=jalmir-reis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
